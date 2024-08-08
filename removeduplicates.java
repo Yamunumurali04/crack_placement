@@ -1,3 +1,4 @@
+package crack_placement;
 class Solution {
     public static int removeDuplicates(int[] nums) {
         if(nums.length ==0)
